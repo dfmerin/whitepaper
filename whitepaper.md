@@ -39,6 +39,12 @@ For interfacing with some institutions, the DAO shall assign trustees who take a
 
 ### Technical implementation
 
+Land parcels will be ERC-721 tokens (also known as NFTs). Initial parcels will be collectively owned by the DAO, but some parcels may be sold to individuals in the DAO or externally.  
+
+Parcels may be fractionally owned by issuing an ERC-20 governance token over that specific parcel.
+
+The CityDAO governance token will be an ERC-20 token. Holders will vote on proposals that will pass with a 50% + 1 vote majority.
+
 [in discussion]
 
 ### Applications
