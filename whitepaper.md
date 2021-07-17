@@ -5,6 +5,7 @@
 
 1. Introduction
 1. Motivation
+1. Previous attempts
 1. Philosophy
 1. Governance
 1. Technical implementation
@@ -39,9 +40,7 @@ As of today, there are several existing projects which put real estate assets on
 
 ### Philosophy
 
-Dream big but start small
-Ease o
-
+Coming soon....
 ### Governance
 
 All decisions regarding land acquisition, use, rights, and policies will be decided by CityDAO. By purchasing land through the DAO, purchasers agree to follow the collective policies set by the DAO on land use, taxation, and rights.
@@ -89,35 +88,31 @@ Pursuant to the discussion on Powers of CityDAO, the governance contract shall i
 
 [in discussion]
 
-### Land Use
+## Land Use
 
 The DAO may choose to hold land or use land with a vote. An example of the governance process. CityDAO votes to acquire a parcel of land proposed by Member A. CityDAO members vote to build a wind energy farm, and assign a Trustee to implement the use case.
 
-Bitcoin Mining
-Buy or Rent a warehouse. Buy ASICs.
-Make agreement with local utility to use wind energy.
-Note: This could serve as a revenue base for the DAO. Members will need to vote on what to do with the money as the treasury builds.
+**Community campground**
+A campground can be established which members of the DAO may use freely. Communal ammenities could be funded through votes of the DAO.
+
+**NFT parcels**
+The DAO may designate a land area as individual plots and sell them to individuals.
+
+**Bitcoin Mining**
+Buy or Rent a warehouse. Buy ASICs. Make agreement with local utility to use wind energy. 
 
 **Hunting/Fishing Resort**
-Buy land along a river. Provide exclusive hunting and fishing access. (ie. elk hunting, flyfishing)
-Will need to hire someone to maintain the business.
-Note: Can tie in with #4.
+Buy land along a river. Provide exclusive hunting and fishing access. (ie. elk hunting, flyfishing) Will need to hire someone to maintain the business.
 
-#4: Land or camping rentals
+**Land or camping rentals**
 Use HipCamp or Airbnb to provide access to the property.
 
-#5: Farming
-Buy land and make agreement with a local farmer.
-Note: This would require a member of the DAO to speak with farmer to make the agreement every season. The profit margins for the DAO would be low and seasonal.
+**Farming**
+Buy land and make agreement with a local farmer. Note: This would require a member of the DAO to speak with farmer to make the agreement every season. The profit margins for the DAO would be low and seasonal.
 
-#6: Luxury Co-living Building
-Buy an apartment building.
-Each room is for rent not the apartments.
-Hire a chef to make breakfast and lunch.
-Hire a management company to collect rent and do repairs.
-Note: This could make luxury living in Wyoming affordable while bringing in a steady income for the DAO. Also, we could add other low cost amenities to the apartment building that would make people want to stay forever.
-
-### Annotated Bibliography
+**Housing**
+Buy an apartment building. Hire a management company to collect rent and do repairs.
+## Annotated Bibliography
 
 1. Wyoming DAO Law full text - https://www.wyoleg.gov/2021/Introduced/SF0038.pdf
 1. RealT whitepaper - https://realt.co/wp-content/uploads/2019/05/RealToken_White_Paper_US_v03.pdf
