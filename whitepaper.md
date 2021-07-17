@@ -25,21 +25,19 @@ Digitizing physical assets can increase accessibility, improve liquidity, and br
 
 As a case study, compare the difference between converting $100 USD to EUR and converting $100 of ETH to $100 of USDC. The blockchain-native, digital conversion is instant, accessible, transparent, and has lower fees.
 
-Currently, there are a lot of pain points regarding the real estate industry, namely that it requires a number of third part intermediaries, large sums of money, and a plethora of invasive identity verifications. This archaic method of transacting real estate faces many of the similar issues which Satoshi percieved in the monetary system, which leads to the hypothesis that a similar solution can be applied: making land transactable using a blockchain can be a way for individuals to particpate in an industry that was previously unnatainable for them. 
+Currently, real estate is largely offline and transactions require intermediaries, large sums of capital, and extensive legal paperwork. What Satoshi and Buterin did for value and compute, we propose to do for real estate.
 
 ### Previous Examples
 
-As of today, there are existing projects which put real estate assets on chain. A notable examples is [RealT](https://realt.co/), which is using blockchain technology to innovate on the legacy methods of real estate ownership.  
+As of today, there are several existing projects which put real estate assets on chain. A notable examples is [RealT](https://realt.co/), which is using blockchain technology to innovate on the legacy methods of real estate ownership.  
 
 ### Governance
 
 **Trustee model**
 
-A model can be imagined where a deed to land or a house is tokenized, and held by a trustee who signs a binding agreement to execute actions that a Decentralized Organization agrees on. Much like the Unisocks explanation, this has the shortcoming of relying on a trustee.
+The most primitive way to link physical objects to on chain ones is to rely on a trusted third party.For example, a deed to land or a house is tokenized and held by a trustee who signs a binding agreement to execute actions that a smart contract dictates. Much like Unisocks, this is vulnerable to a malicious trustee, who could steal the deed to the house.
 
-Since the actions of the DAO LLC has legal standing in Wyoming, this would violate the law, the DAO could recover the land.
-
-For interfacing with some institutions, the DAO shall assign trustees who take actions on behalf of members. 
+Using Wyoming's new DAO law, however, using trustees is more feasible because there is legal recourse and recognition of the DAO LLC. Since the actions of the DAO LLC have legal standing in Wyoming, this would violate the law, the DAO could recover the land. For interfacing with some institutions, the DAO shall assign trustees who take actions on behalf of members. 
 
 ### Technical implementation
 
