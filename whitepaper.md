@@ -26,15 +26,15 @@ Wyoming's [DAO Law](https://www.wyoleg.gov/2021/Introduced/SF0038.pdf) opens the
 
 ### Motivation
 
-Cities are our interfaces for the world, accelerators for oppoortunity, and hubs for community, yet the mechanisms that govern them are antiquated.
+Cities are our interfaces for the world, accelerators for oppoortunity, and hubs for finding community, yet the mechanisms that govern land, property, and voting leave residents excluded from true ownership in their city.
 
-For example, the housing crisis in the San Francisco Bay Area has been caused by zoning and poor mechanism design that allows existing residents to block new growth and development, leading to displacement and homelessness.
+For example, ownership of real estate is a privilege for the wealthiest people. Allocation of tax dollars is vested with a small group of politicians. Poor land use policies in places like the San Francisco Bay Area are causing displacement and homelessness.
+
+Not all problems can be sovled by putting assets on chain, but our conviction is by fundamentally making city assets digitally legible, we can bolster accessibility, interoperability, and opportunity.
 
 Attempts to radically rethink the City, like Google's Sidewalk Labs in Toronto have [had trouble getting community buy in](https://www.thestar.com/opinion/editorials/2020/05/07/sidewalk-labs-has-walked-away-thats-a-lost-opportunity-for-toronto.html) for a centralized project on privately owned land.
 
-The current city is technology enhanced, but it is not technology defined. By fundamentally making city assets digitally legible, we can bolster accessibility, interoperability, and opportunity.
-
-Initial considerations are things like real estate, tax collection and allocation, and voting. What Nakamoto and Buterin did for value and compute, we propose to do for the phyiscal world.
+The current city is technology enhanced, but it is not technology defined. Initial considerations are things like real estate, tax collection and allocation, and voting. What Nakamoto and Buterin did for value and compute, we propose to do for the phyiscal world.
 
 ### Previous Examples
 
