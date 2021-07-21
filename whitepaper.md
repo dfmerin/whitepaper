@@ -36,7 +36,7 @@ Currently, real estate is largely offline and transactions require intermediarie
 
 ### Previous Examples
 
-As of today, there are several existing projects which put real estate assets on chain. A notable examples is [RealT](https://realt.co/), which is using blockchain technology to innovate on the legacy methods of real estate ownership.  
+Like DAOs themselves, various forms of tokenized real estate transactions have been [a dream of members of the Ethereum community since it’s earliest days](https://blog.slock.it/decentralized-sharing-economy-to-be-revealed-at-leading-blockchain-conference-f419f15beb7f?gi=828f6c1a9ee1).  [Countries have worked to put title registries on chain](https://ethereumworldnews.com/uaes-capital-abu-dhabi-to-place-land-registry-on-blockchain-based-platform/), [several teams](https://medium.com/meridio/meridio-the-new-standard-for-shared-ownership-of-physical-assets-ce6291050a38) [have tried putting traditional LP units of real estate syndications on chain](https://www.coindesk.com/harbor-tokenizes-real-estate-funds-worth-100-million-on-ethereum), and none of these efforts have really achieved product market fit.
 
 ### Philosophy
 
