@@ -1,4 +1,4 @@
-# A Decentralized Model for Land Ownership and Management
+# A Decentralized Protocol for Land Ownership and Management
 
 
 ## Contents 
@@ -14,29 +14,31 @@
 
 ### Introduction
 
-When Bitcoin launched in 2009, Satoshi proved that value could be stored and transmitted securely without intermediaries. The subsequent release of Ethereum proved that a Turing complete, distributed computer meant that arbitrary state and computation could be put on chain, enabling smart contracts that define complex relationships and agreements between people. 
+When Bitcoin launched in 2009, Satoshi proved that value can be stored and transmitted securely without intermediaries. The subsequent release of Ethereum proved that a arbitrary computation and state can be agreed upon in a trustless, peer-to-peer fashion. 
 
-The impact and reach of blockchain technology is largely confined to the digital sphere. Some novel experiments like [Unisocks](https://unisocks.exchange/) have tokenized real world assets, in this case giving owners a physical pair of socks in exchange for burning a SOCKS token. Unfortunately, the exchange of real-world assets usually relies on centralized trustees - in this case the Uniswap employee sending socks when a token is burned. A rogue sock distributor could simply not send the socks, and the blockchain would never know.
+The impact and reach of blockchain technology is largely confined to the digital sphere. Some novel experiments like [Unisocks](https://unisocks.exchange/) have tokenized real world assets, in this case by issuing a token that can be burned in order to claim a physical pair of sockets. Unfortunately, the exchange of real-world assets usually relies on centralized trustees - in this case the Uniswap employee sending socks when a token is burned. A rogue sock distributor could simply not send the socks, and the blockchain would never know. 
 
-Perhaps socks will never be fully on chain, but fortunately ownership of real estate is a matter of deed.  Deeds are documents that can be held by LLCs, individuals and banks.
+Perhaps the socks on chain problem is intractable without a Proof of Shipping protocol, but fortunately ownership of real estate is easily accounted for by a ledger. Deeds are documents that can be held by LLCs, individuals and banks often held by county recorders. Leases are agreements executed between private parties. Zoning is how a city decides what can be built where. These agreements between parties are perfect for encoding in a public, transparent blockchain. 
 
-Wyoming's [DAO Law](https://www.wyoleg.gov/2021/Introduced/SF0038.pdf) opens the door to forming LLC entities and recognizing the rights and decisions of members as legally binding decisions that will be recognized in a court of law:
+Wyoming's [DAO Law](https://www.wyoleg.gov/2021/Introduced/SF0038.pdf) opens the door to forming DAO LLC entities and giving legal recognition to the DAO and its smart contracts:
 
 > Management of a decentralized autonomous organization shall be vested in its members, if member managed, or the smart contract, if algorithmically managed, unless otherwise provided in the articles of organization or operating agreement (p. 11)
 
-Since LLCs can hold real estate deeds, this means a DAO can hold, manage, and make decisions regarding land owned.
-
 ### Motivation
 
-Digitizing physical assets can increase accessibility, improve liquidity, and bring interoperability.
+Cities are our interfaces for the world, accelerators for oppoortunity, and hubs for community, yet the mechanisms that govern them are antiquated.
 
-As a case study, compare the difference between converting \$100 to EUR and converting $100 ETH to USDC. The blockchain-native, digital conversion is instant, accessible, transparent, and has lower fees.
+For example, the housing crisis in the San Francisco Bay Area has been caused by zoning and poor mechanism design that allows existing residents to block new growth and development, leading to displacement and homelessness.
 
-Currently, real estate is largely offline and transactions require intermediaries, large sums of capital, and extensive legal paperwork. What Satoshi and Buterin did for value and compute, we propose to do for real estate.
+Attempts to radically rethink the City, like Google's Sidewalk Labs in Toronto have [had trouble getting community buy in](https://www.thestar.com/opinion/editorials/2020/05/07/sidewalk-labs-has-walked-away-thats-a-lost-opportunity-for-toronto.html) for a centralized project on privately owned land.
+
+The current city is technology enhanced, but it is not technology defined. By fundamentally making city assets digitally legible, we can bolster accessibility, interoperability, and opportunity.
+
+Initial considerations are things like real estate, tax collection and allocation, and voting. What Nakamoto and Buterin did for value and compute, we propose to do for the phyiscal world.
 
 ### Previous Examples
 
-Like DAOs themselves, various forms of tokenized real estate transactions have been [a dream of members of the Ethereum community since it’s earliest days](https://blog.slock.it/decentralized-sharing-economy-to-be-revealed-at-leading-blockchain-conference-f419f15beb7f?gi=828f6c1a9ee1).  [Countries have worked to put title registries on chain](https://ethereumworldnews.com/uaes-capital-abu-dhabi-to-place-land-registry-on-blockchain-based-platform/), [several teams](https://medium.com/meridio/meridio-the-new-standard-for-shared-ownership-of-physical-assets-ce6291050a38) [have tried putting traditional LP units of real estate syndications on chain](https://www.coindesk.com/harbor-tokenizes-real-estate-funds-worth-100-million-on-ethereum), and none of these efforts have really achieved product market fit.
+Currently, real estate is largely offline and transactions require intermediaries, large sums of capital, and extensive legal paperwork. Tokenized real estate has been [a dream of members of the Ethereum community since it’s earliest days](https://blog.slock.it/decentralized-sharing-economy-to-be-revealed-at-leading-blockchain-conference-f419f15beb7f?gi=828f6c1a9ee1).  [Countries have worked to put title registries on chain](https://ethereumworldnews.com/uaes-capital-abu-dhabi-to-place-land-registry-on-blockchain-based-platform/), [several teams](https://medium.com/meridio/meridio-the-new-standard-for-shared-ownership-of-physical-assets-ce6291050a38) [have tried putting traditional LP units of real estate syndications on chain](https://www.coindesk.com/harbor-tokenizes-real-estate-funds-worth-100-million-on-ethereum), and yet none of these efforts have  achieved product market fit. Some reasons are the lack of interoperability with the ethereum standards and lack of regulatory guidance.
 
 ### Philosophy
 
@@ -112,7 +114,9 @@ Buy land and make agreement with a local farmer. Note: This would require a memb
 
 **Housing**
 Buy an apartment building. Hire a management company to collect rent and do repairs.
-## Annotated Bibliography
+## Bibliography, References, and Further Reading
 
 1. Wyoming DAO Law full text - https://www.wyoleg.gov/2021/Introduced/SF0038.pdf
 1. RealT whitepaper - https://realt.co/wp-content/uploads/2019/05/RealToken_White_Paper_US_v03.pdf
+1. How to Start A New City (Balaji) - https://twitter.com/balajis/status/1269178671086006273?s=20
+1. How to Start a New Country (1729) - https://1729.com/how-to-start-a-new-country/
