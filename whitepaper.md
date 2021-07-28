@@ -26,7 +26,7 @@ Wyoming's [DAO Law](https://www.wyoleg.gov/2021/Introduced/SF0038.pdf) opens the
 
 ### Motivation
 
-Cities are our interfaces for the world, accelerators for oppoortunity, and hubs for finding community, yet the mechanisms that govern land, property, and voting leave residents excluded from true ownership in their city.
+Cities are our interfaces for the world, accelerators for opportunity, and hubs for finding community, yet the mechanisms that govern land, property, and voting leave residents excluded from true ownership in their city.
 
 For example, ownership of real estate is a privilege for the wealthiest people. Allocation of tax dollars is vested with a small group of politicians. Poor land use policies in places like the San Francisco Bay Area are causing displacement and homelessness.
 
