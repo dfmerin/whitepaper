@@ -5,7 +5,7 @@
 
 1. Introduction
 1. Motivation
-1. Previous attempts
+1. Fractionalized Ownership
 1. Philosophy
 1. Governance
 1. Technical implementation
@@ -26,7 +26,7 @@ Wyoming's [DAO Law](https://www.wyoleg.gov/2021/Introduced/SF0038.pdf) opens the
 
 ### Motivation
 
-Cities are our interfaces for the world, accelerators for oppoortunity, and hubs for finding community, yet the mechanisms that govern land, property, and voting leave residents excluded from true ownership in their city.
+Cities are our interfaces for the world, accelerators for opportunity, and hubs for finding community, yet the mechanisms that govern land, property, and voting leave residents excluded from true ownership in their city.
 
 For example, ownership of real estate is a privilege for the wealthiest people. Allocation of tax dollars is vested with a small group of politicians. Poor land use policies in places like the San Francisco Bay Area are causing displacement and homelessness.
 
@@ -36,9 +36,17 @@ Attempts to radically rethink the City, like Google's Sidewalk Labs in Toronto h
 
 The current city is technology enhanced, but it is not technology defined. Initial considerations are things like real estate, tax collection and allocation, and voting. What Nakamoto and Buterin did for value and compute, we propose to do for the phyiscal world.
 
-### Previous Examples
+### Fractionalized Ownership
 
-Currently, real estate is largely offline and transactions require intermediaries, large sums of capital, and extensive legal paperwork. Tokenized real estate has been [a dream of members of the Ethereum community since it’s earliest days](https://blog.slock.it/decentralized-sharing-economy-to-be-revealed-at-leading-blockchain-conference-f419f15beb7f?gi=828f6c1a9ee1).  [Countries have worked to put title registries on chain](https://ethereumworldnews.com/uaes-capital-abu-dhabi-to-place-land-registry-on-blockchain-based-platform/), [several teams](https://medium.com/meridio/meridio-the-new-standard-for-shared-ownership-of-physical-assets-ce6291050a38) [have tried putting traditional LP units of real estate syndications on chain](https://www.coindesk.com/harbor-tokenizes-real-estate-funds-worth-100-million-on-ethereum), and yet none of these efforts have  achieved product market fit. Some reasons are the lack of interoperability with the ethereum standards and lack of regulatory guidance.
+Currently, real estate is largely recorded offline and transactions require intermediaries, large sums of capital, and extensive legal paperwork. Fractionalized ownership is a method of dividing real estate, or any asset, into pieces or shares so that it can have multiple owners. Timeshares and companies like Fundrise and Roofstock are in essence ways of providing ownership of a single asset to many people. These versions however come with many restrictions regarding their use, transferability, duration of investment, and limits of legal ownership. 
+
+Tokenization is fractional ownership represented on a blockchain, which increases liquidity, transparency, and accessibility of properties and their profits, and has been [a dream of members of the Ethereum community since it’s earliest days](https://blog.slock.it/decentralized-sharing-economy-to-be-revealed-at-leading-blockchain-conference-f419f15beb7f?gi=828f6c1a9ee1). [RealT](https://realt.co/) is one of the most successful companies to do this so far and has tokenized residential investment properties and sold fractions to individuals all over the world. Profits from these properties are also delivered on chain, increasing the speed in which investors receive cash flow from their investment.
+
+[Countries have also worked to put title registries on chain](https://ethereumworldnews.com/uaes-capital-abu-dhabi-to-place-land-registry-on-blockchain-based-platform/), [and several teams](https://medium.com/meridio/meridio-the-new-standard-for-shared-ownership-of-physical-assets-ce6291050a38) [have tried putting shares of traditional real estate syndications on chain](https://www.coindesk.com/harbor-tokenizes-real-estate-funds-worth-100-million-on-ethereum), and yet none of these efforts have  achieved product market fit. Some reasons are the lack of interoperability between legacy systems with blockchain standards, and lack of regulatory clarity.
+
+Since ownership of land is enforced at the jurisdictional level, a special purpose vehicle (a shell company) is typically created for the sole purpose of owning a parcel of land. This allows the name on the deed to remain the same, while the individuals that comprise the company can change. This is very common for commercial developers since it protects individuals from personal liability and cross-liabilty between properties under common ownership. This is also the way [RealT](https://realt.co/) has structured themselves, a series LLC is created for each property and then that LLC is split up into many pieces by using a legal agreement that dictates that holders of a token are the members of that LLC.
+
+Most, if not all, of the effort to tokenize real estate has been from the perspective of passive investment. Little, or none, of the current examples have approached distributed ownership from the initial purchase decision to ongoing collective management.
 
 ### Philosophy
 
