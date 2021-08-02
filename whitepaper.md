@@ -50,7 +50,10 @@ Most, if not all, of the effort to tokenize real estate has been from the perspe
 
 ### Philosophy
 
-Coming soon....
+Like most successful human endeavors, we have have started small, but will grow large.  
+
+This project began with a tweet, has grown to NFTs, will soon acquire a small parcel of land for DAO members to use collectively, then explore opportunities for land the DAO can develop, before building a true city, and then a network a cities.
+
 ### Governance
 
 All decisions regarding land acquisition, use, rights, and policies will be decided by CityDAO. By purchasing land through the DAO, purchasers agree to follow the collective policies set by the DAO on land use, taxation, and rights.
